@@ -1,3 +1,3 @@
-print("welcome to the library simulator")
 print("hello")
-print("hope u r fine")
+print("hiii")
+print("welcome to lib simulator")
